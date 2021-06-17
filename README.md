@@ -1,9 +1,4 @@
-# myJavaStudy
-my Study materials 
-
-commit example
-
-##### 개발 환경 :  [![Springboot](http://img.shields.io/badge/-Springboot2.4.5-000000?style=flat&logo=springboot&link=본인주소)](본인 주소) & ![Springboot](http://img.shields.io/badge/-Gradle 6.8.3-006cb7?style=flat&logo=gradle&link=본인주소)
+개발 환경 :  [![Springboot](http://img.shields.io/badge/-Springboot2.4.5-000000?style=flat&logo=springboot&link=본인주소)](본인 주소) & ![Springboot](http://img.shields.io/badge/-Gradle 6.8.3-006cb7?style=flat&logo=gradle&link=본인주소)
 
 ##### 화면 처리 탬플릿 : ![Springboot](http://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=Thymeleaf&link=본인주소)
 
@@ -22,3 +17,6 @@ commit example
 #####  ![Springboot](http://img.shields.io/badge/-JPA-FFCA28?style=flat&logo=Firebase&link=본인주소) & ![Springboot](http://img.shields.io/badge/-Spring Security-FFCA28?style=flat&logo=Firebase&link=본인주소)    : 로그인 처리 구현을 위해 JPA와 H2 Database기반으로 별도의 데이터베이스 없이, 구글 로그인 처리 가능
 
 #####  ![Springboot](http://img.shields.io/badge/-Cloud Firestore-FFCA28?style=flat&logo=Firebase&link=본인주소)
+
+#### 개발 환경 사용 이유
+
